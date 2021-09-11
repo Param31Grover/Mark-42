@@ -1,7 +1,7 @@
 # The-Financial-AI
 An AI Trading system. (Part of Udacity's AI For Trading nano-degree)
 
-This repo contains my work to Udacity nanodegree [AI for Trading](https://www.udacity.com/course/ai-for-trading--nd880).
+This repo contains my work to Udacity nanodegree [AI for Trading](https://confirm.udacity.com/HZHKGJYS).
 
 ### 1. Sentiment Analysis with NLP on Financial Statements:
 Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
