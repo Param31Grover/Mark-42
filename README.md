@@ -1,6 +1,7 @@
 # The-Financial-AI
 An AI Trading system. (Part of Udacity's AI For Trading nano-degree)
 
+
 This repo contains my work to Udacity nanodegree [AI for Trading](https://confirm.udacity.com/HZHKGJYS).
 
 ### 1. Sentiment Analysis with NLP on Financial Statements:
